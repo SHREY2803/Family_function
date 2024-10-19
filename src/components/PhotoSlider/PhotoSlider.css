@@ -1,0 +1,25 @@
+.slider-container .slick-dots {
+    position: absolute;
+    bottom: 10px; /* Adjust this value to change the distance from the bottom */
+    left: 50%;
+    transform: translateX(-50%); /* Center the dots */
+    display: flex !important; /* Ensure dots are displayed as a flex container */
+    justify-content: center; /* Center align the dots */
+  }
+  
+  .slider-container .slick-dots li {
+    margin: 0 5px; /* Space between dots */
+  }
+  
+  .slider-container .slick-dots li button {
+    background-color: white; /* Change dot color to white */
+    border-radius: 50%; /* Make dots circular */
+    width: 10px; /* Width of the dot */
+    height: 10px; /* Height of the dot */
+    opacity: 0.5; /* Set initial opacity */
+  }
+  
+  .slider-container .slick-dots li.slick-active button {
+    opacity: 1; /* Active dot full opacity */
+  }
+  
