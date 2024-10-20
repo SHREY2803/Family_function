@@ -113,9 +113,9 @@ function PreLoader() {
         >
           <h1
             id="welcome"
-            className="text-3xl sm:text-2xl md:text-4xl lg:text-6xl font-bold text-gray-100 font-spaceGrostesk flex items-center justify-center text-center px-3 sm:px-5"
+            className="text-3xl sm:text-2xl md:text-4xl lg:text-6xl font-bold text-red-700 font-spaceGrostesk flex items-center justify-center text-center px-3 sm:px-5"
           >
-            ||सहस्त्रचंद्र दर्शन सोहळ्यासाठी||
+            || सहस्त्रचंद्र दर्शन सोहळ्यासाठी ||
           </h1>
         </div>
       </div>
