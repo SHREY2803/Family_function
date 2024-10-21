@@ -6,11 +6,18 @@ import PhotoThree from "../../assets/four-img.jpg";
 import Pic1 from "../../assets/grandfather.jpg"
 import Pic2 from "../../assets/img-2.jpg"
 import Pic3 from "../../assets/img-3.png"
-import Pic4 from "../../assets/img-4.png"
+import NewPic from "../../assets/new_img-1.jpg"
 import Pic5 from "../../assets/img-5.jpg"
 import Pic6 from "../../assets/img-6.jpg"
 import Pic7 from "../../assets/family.jpg"
+import NewPic1 from "../../assets/new_img-2.jpg"
+import NewPic2 from "../../assets/new_img-3.jpg"
+import NewPic3 from "../../assets/new_img-4.jpg"
+import NewPic4 from "../../assets/new_img-5.jpg"
+import NewPic5 from "../../assets/new_img-6.jpg"
+import NewPic6 from "../../assets/new_img-7.jpg"
 import { delay, motion } from "framer-motion"
+
 
 const testimonialData = [
   {
@@ -27,7 +34,7 @@ const testimonialData = [
   },
   {
     id: 4,
-    img: Pic1,
+    img: NewPic1,
   },
   {
     id: 5,
@@ -38,8 +45,44 @@ const testimonialData = [
     img: Pic3,
   },
   {
+    id: 7,
+    img: NewPic,
+  },
+  {
+    id: 8,
+    img: Pic5,
+  },
+  {
+    id: 9,
+    img: Pic6,
+  },
+  {
     id: 10,
     img: Pic7,
+  },
+  {
+    id: 11,
+    img: Pic1,
+  },
+  {
+    id: 12,
+    img: NewPic2,
+  },
+  {
+    id: 13,
+    img: NewPic3,
+  },
+  {
+    id: 14,
+    img: NewPic4,
+  },
+  {
+    id: 15,
+    img: NewPic5,
+  },
+  {
+    id: 16,
+    img: NewPic6,
   },
 ];
 
