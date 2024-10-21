@@ -1,6 +1,7 @@
 import React from "react";
 import lastVideo from "../../assets/sample_video.mp4";
 import videoImg from "../../assets/video_img.jpg";
+import newVideo from "../../assets/updated_video.mp4"
 import { delay, motion } from "framer-motion"
 
 const VideoImg = () => {
@@ -20,7 +21,7 @@ const VideoImg = () => {
             initial={{opacity:0,x:-100}}
             transition={{duration:0.9,delay:0.5}}
             className="rounded-md w-full sm:w-3/4 md:w-2/3 xl:w-5/12"
-            src={lastVideo}
+            src={newVideo}
             loop
             autoPlay
             controls
