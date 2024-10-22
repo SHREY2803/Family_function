@@ -93,7 +93,7 @@ function PreLoader() {
               className="text-5xl sm:text-4xl md:text-5xl lg:text-6xl"
               id="title-3"
             >
-              स्वागत करतो
+              स्वागत करीत आहे
             </h1>
             <h1
               className="text-5xl sm:text-4xl md:text-5xl lg:text-6xl"
@@ -113,7 +113,7 @@ function PreLoader() {
         >
           <h1
             id="welcome"
-            className="text-3xl sm:text-2xl md:text-4xl lg:text-6xl font-bold text-red-700 font-spaceGrostesk flex items-center justify-center text-center px-3 sm:px-5"
+            className="text-2xl sm:text-2xl md:text-3xl lg:text-6xl font-bold text-red-700 font-spaceGrostesk flex items-center justify-center text-center px-3 sm:px-5"
           >
             || सहस्त्रचंद्र दर्शन सोहळ्यासाठी ||
           </h1>
