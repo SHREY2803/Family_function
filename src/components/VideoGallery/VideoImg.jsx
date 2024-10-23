@@ -2,7 +2,7 @@ import React from "react";
 import lastVideo from "../../assets/sample_video.mp4";
 import videoImg from "../../assets/video_img.jpg";
 import newVideo from "../../assets/updated_video.mp4"
-import finalVideo from "../../assets/updated_video.mp4"
+import finalVideo from "../../assets/final_family_video.mp4"
 import { delay, motion } from "framer-motion"
 
 const VideoImg = () => {
