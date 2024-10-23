@@ -16,6 +16,10 @@ import NewPic3 from "../../assets/new_img-4.jpg"
 import NewPic4 from "../../assets/new_img-5.jpg"
 import NewPic5 from "../../assets/new_img-6.jpg"
 import NewPic6 from "../../assets/new_img-7.jpg"
+import NewPic7 from "../../assets/new_img-8.jpg"
+import NewPic8 from "../../assets/new_img-9.jpg"
+import NewPic9 from "../../assets/new_img-10.jpg"
+import NewPic10 from "../../assets/new_img-11.jpg"
 import { delay, motion } from "framer-motion"
 
 
@@ -83,6 +87,22 @@ const testimonialData = [
   {
     id: 16,
     img: NewPic6,
+  },
+  {
+    id: 17,
+    img: NewPic7,
+  },
+  {
+    id: 18,
+    img: NewPic8,
+  },
+  {
+    id: 19,
+    img: NewPic9,
+  },
+  {
+    id: 20,
+    img: NewPic10,
   },
 ];
 
