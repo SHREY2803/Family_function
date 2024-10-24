@@ -20,6 +20,15 @@ import NewPic7 from "../../assets/new_img-8.jpg"
 import NewPic8 from "../../assets/new_img-9.jpg"
 import NewPic9 from "../../assets/new_img-10.jpg"
 import NewPic10 from "../../assets/new_img-11.jpg"
+import NewPic11 from "../../assets/new_img-12.jpg"
+import NewPic12 from "../../assets/new_img-13.jpg"
+import NewPic13 from "../../assets/new_img-14.jpg"
+import NewPic14 from "../../assets/new_img-15.jpg"
+import NewPic15 from "../../assets/new_img-16.jpg"
+import NewPic16 from "../../assets/new_img-17.jpg"
+import NewPic17 from "../../assets/new_img-18.jpg"
+import NewPic18 from "../../assets/new_img-19.jpg"
+import NewPic19 from "../../assets/new_img-20.jpg"
 import { delay, motion } from "framer-motion"
 
 
@@ -103,6 +112,42 @@ const testimonialData = [
   {
     id: 20,
     img: NewPic10,
+  },
+  {
+    id: 21,
+    img: NewPic11,
+  },
+  {
+    id: 22,
+    img: NewPic12,
+  },
+  {
+    id: 23,
+    img: NewPic13,
+  },
+  {
+    id: 24,
+    img: NewPic14,
+  },
+  {
+    id: 25,
+    img: NewPic15,
+  },
+  {
+    id: 26,
+    img: NewPic16,
+  },
+  {
+    id: 27,
+    img: NewPic17,
+  },
+  {
+    id: 28,
+    img: NewPic18,
+  },
+  {
+    id: 29,
+    img: NewPic19,
   },
 ];
 
